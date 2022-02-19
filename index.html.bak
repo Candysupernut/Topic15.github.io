@@ -19,7 +19,40 @@
 	   
 	   
 	    <div class="table-1">
-		
+<table>
+<tr>
+<th rowspan="2">Мій(моя) улюблена</th>
+<th colspan="3">Як сильно</th>
+</tr>
+<tr>
+<td>Не люблю</td>
+<td>Так собі</td>
+<td>Дуже люблю</td>
+</tr>
+<tr>
+<td>Страва</td>
+<td class="f1">Чіпси</td>
+<td class="f2">Каша гречана</td>
+<td class="f3">Вареники</td>
+</tr>
+<tr>
+<td>Колір</td>
+<td class="f1"></td>
+<td class="f2"></td>
+<td class="f3"></td>
+</tr>
+<tr>
+<th rowspan="2">Навчальний предмет</th>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 		</div>
 		
 		 <div class="table-2">
